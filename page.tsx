@@ -1,0 +1,1 @@
+// Tarifs page (placeholder)
